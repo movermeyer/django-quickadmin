@@ -2,8 +2,8 @@
 
 [![Build Status](https://travis-ci.org/zniper/django-quickadmin.svg)](https://travis-ci.org/zniper/django-quickadmin)
 [![Coverage Status](https://coveralls.io/repos/zniper/django-quickadmin/badge.svg?branch=master)](https://coveralls.io/r/zniper/django-quickadmin?branch=master)
-[![Downloads](https://pypip.in/download/django-quickadmin/badge.svg)](https://pypi.python.org/pypi/django-quickadmin/)
-[![Latest Version](https://pypip.in/version/django-quickadmin/badge.svg)](https://pypi.python.org/pypi/django-quickadmin/)
+[![Downloads](https://img.shields.io/pypi/dm/django-quickadmin.svg)](https://pypi.python.org/pypi/django-quickadmin/)
+[![Latest Version](https://img.shields.io/pypi/v/django-quickadmin.svg)](https://pypi.python.org/pypi/django-quickadmin/)
 
 **django-quickadmin** is a Django application which automatically registers all models found in `INSTALLED_APPS` of settings module. 
 
